@@ -12,6 +12,6 @@ If the exercise is a cardio exercise, I should be able to track my distance trav
 ```
 ## Tech Stack
 
-MongoDB 
-MongoDB Atlas
-Heroku
+<li>MongoDB</li>
+<li>MongoDB Atlas</li>
+<li>Heroku</li>
